@@ -17,11 +17,10 @@ public class Literal {
 
         char var6 = 'A';
         System.out.println(var6);
-
-        char var7 = '한';
+        char var7 = '가';
         System.out.println(var7);
 
-        String var9 = "자바";
+        String var9 = "나";
         boolean var10 = true;
         boolean var11 = false;
         System.out.println(var10);
